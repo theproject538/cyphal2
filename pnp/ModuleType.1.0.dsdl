@@ -1,6 +1,5 @@
-enum ModuleType: uint8 {
-    COGNITIVE = 0
-    ENGINE = 1
-    SENSOR_FRONT = 2
-    SENSOR_BACK = 3
-}
+uint8 COGNITIVE = 0
+uint8 ENGINE = 1
+uint8 SENSOR_FRONT = 2
+uint8 SENSOR_BACK = 3
+@sealed
