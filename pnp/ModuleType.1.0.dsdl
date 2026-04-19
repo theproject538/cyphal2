@@ -1,4 +1,4 @@
-enum module_type: uint8 {
+enum ModuleType: uint8 {
     COGNITIVE,   # = 0
     ENGINE,  # = 1
     SENSOR_FRONT,       # = 2
