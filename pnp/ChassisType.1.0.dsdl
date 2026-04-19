@@ -1,5 +1,4 @@
 enum ChassisType: uint8 {
-    TANK,   # = 0
-    WHEEL  # = 1
+    TANK = 0
+    WHEEL = 1
 }
-@sealed
