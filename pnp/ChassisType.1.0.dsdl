@@ -1,4 +1,4 @@
-enum chassis_type: uint8 {
+enum ChassisType: uint8 {
     TANK,   # = 0
     WHEEL  # = 1
 }
