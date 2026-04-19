@@ -1,0 +1,4 @@
+uint8 allocated_node_id
+pnp.ChassisType.1.0 value
+uint8 actuators_num
+@sealed

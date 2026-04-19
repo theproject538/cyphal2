@@ -1,0 +1,5 @@
+uint8 value
+uint2 stopped = 0        # движение остановлено
+uint2 moving = 1            # движение
+uavcan.time.SynchronizedTimestamp.1.0 timestamp # временная метка
+@sealed

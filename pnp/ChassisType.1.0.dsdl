@@ -1,0 +1,5 @@
+enum chassis_type: uint8 {
+    TANK,   # = 0
+    WHEEL  # = 1
+}
+@sealed
