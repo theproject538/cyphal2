@@ -1,4 +1,4 @@
 uint8 allocated_node_id # сгенерированный ID модуля
-pnp.ChassisType.1.0 value # тип шасси
+uint8 value # тип шасси
 uint8 actuators_num # число управляемых устройств
 @sealed
