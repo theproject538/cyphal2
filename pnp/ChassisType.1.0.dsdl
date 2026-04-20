@@ -1,5 +1,3 @@
-ChassisType: uint8 {
-TANK = 0
-WHEEL = 1
-}
+uint8 TANK = 0
+uint8 WHEEL = 1
 @sealed
