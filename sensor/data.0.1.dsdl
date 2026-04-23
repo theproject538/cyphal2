@@ -1,4 +1,3 @@
-uint2[6] sensor_num  # массив номеров УЗ датчиков
 uint16[6] sensor_value   # массив показаний УЗ датчиков
 uavcan.time.SynchronizedTimestamp.1.0 timestamp # временная метка
 @sealed
